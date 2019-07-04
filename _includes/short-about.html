@@ -5,11 +5,11 @@
     {% if site.sidebar-avatar %}
     <img src="{{site.sidebar-avatar}}" />
     {% endif %}
+    <!-- SNS Link -->
+    {% include sns-links.html %}
     {% if site.sidebar-about-description %}
     <p>{{site.sidebar-about-description}}</p>
     {% endif %}
-    <!-- SNS Link -->
-    {% include sns-links.html %}
     {% if site.email %}
     <p>✉️ {{site.email}}</p>
     {% endif %}
