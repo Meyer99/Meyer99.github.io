@@ -109,5 +109,8 @@ friends: [
     },{
         title: "Disqus",
         href: "https://disqus.com/"
+    },{
+        title: "Emoji"
+        href: "https://gist.github.com/rxaviers/7360908"
     }
 ]
