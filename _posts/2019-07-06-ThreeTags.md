@@ -1,12 +1,11 @@
 ---
-title: EvenMoreTest
+title: ThreeTags
 layout: post
 mathjax: true
 author: Meyer
 catalog: true
 tags: 
-    - Test2
-    - HelloWorld
+    - YesIsAKeyword
 
 ---
 
