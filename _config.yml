@@ -7,6 +7,7 @@ description: "Meyer Blog"
 keyword: "Meyer, Meyer Blog"
 url: "https://meyer99.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Meyer99/Meyer99.github.io"
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -78,8 +79,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-#sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-#sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "📘 SCUT Undergraduate<br>💻 Software Engineering"
+sidebar-avatar: /img/Baymax.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,16 +104,10 @@ page-mathjax: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CS229",
+        href: "http://cs229.stanford.edu/syllabus-spring2019.html"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Disqus",
+        href: "https://disqus.com/"
     }
 ]
