@@ -79,7 +79,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "📍  Guangzhou, China<br>📚 SCUT Undergraduate<br>💻 Software Engineering"
+sidebar-about-description: "🌏 Guangzhou, China<br>📚 SCUT Undergraduate<br>💻 Software Engineering"
 sidebar-avatar: /img/Baymax.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
