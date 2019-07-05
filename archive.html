@@ -23,8 +23,8 @@ https://github.com/kitian616/jekyll-TeXt-theme
 					<sup>{{site.posts.size}}</sup>
 				</a>
 
-				{% capture tags %}
-				{% for tag in site.tags %}
+				{% assign sorted_tags = site.tags | sort %}
+				{% for tag in sorted_tags %}
 				<a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
 					data-encode="{{ tag[0] | strip | url_encode }}"
 					class="tag-button"
@@ -33,10 +33,9 @@ https://github.com/kitian616/jekyll-TeXt-theme
 					<sup>{{tag[1].size}}</sup>
 				</a>
 				{% endfor %}
-				{% endcapture %}
-        {{ tags | split:'</a>' | sort | join:'</a>' }}
+				
 			</div>
-
+			
             <!-- Article List -->
 			<div class="mini-post-list js-result d-none">
 			{%- assign _sorted_list = site.posts -%}
