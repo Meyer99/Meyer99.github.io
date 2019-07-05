@@ -112,5 +112,8 @@ friends: [
     },{
         title: "Emoji",
         href: "https://gist.github.com/rxaviers/7360908"
+    },{
+        title: "Markdown",
+        href: "http://assemble.io/docs/Cheatsheet-Markdown.html"
     }
 ]
