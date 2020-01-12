@@ -1,9 +1,8 @@
-<!-- ## Under Construction ⌛️
-## Coming soon! -->
+<!-- Due to some technical reasons that I tried to fix but failed, zh is actually English version -->
 
 > I am what I am
 
-Hi! I am Meyer. I'm now studying at the School of Software Engineering, South China University of Technology. My research interests include the theory and applications of machine learning and artificial intelligence.  
+Hi! I am Meyer. I'm now studying at the School of Software Engineering, South China University of Technology. My research interests include the theories and applications of machine learning and artificial intelligence.  
 <br>
 Welcome to my blog! This [blog](https://meyer99.github.io/) will record some of my study notes, so as to urge myself to learn more and summarize in time, as well as my thinking of life and what I have seen and heard.
 
