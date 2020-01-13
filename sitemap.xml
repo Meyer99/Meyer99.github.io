@@ -8,28 +8,43 @@
 
 
 <url>
-  <loc>https://meyer99.github.io/</loc>
-  <lastmod>2019-07-18T10:14:14+00:00</lastmod>
+  <loc>http://xiemingyang.top/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://meyer99.github.io/about/</loc>
-  <lastmod>2019-07-18T10:14:14+00:00</lastmod>
+  <loc>http://xiemingyang.top/about/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://meyer99.github.io/archive/</loc>
-  <lastmod>2019-07-18T10:14:14+00:00</lastmod>
+  <loc>http://xiemingyang.top/archive/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://meyer99.github.io/2019/07/09/My-First-Post/</loc>
-  <lastmod>2019-07-18T10:14:14+00:00</lastmod>
+  <loc>http://xiemingyang.top/2020/01/10/Python-Basics2/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://meyer99.github.io/archive/?tag=Blog</loc>
-  <lastmod>2019-07-18T10:14:14+00:00</lastmod>
+  <loc>http://xiemingyang.top/2019/12/30/Python-Basics1/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xiemingyang.top/2019/07/09/My-First-Post/</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xiemingyang.top/archive/?tag=Blog</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://xiemingyang.top/archive/?tag=Python</loc>
+  <lastmod>2020-01-12T14:46:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
