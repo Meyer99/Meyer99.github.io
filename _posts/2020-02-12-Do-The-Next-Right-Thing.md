@@ -28,7 +28,11 @@ tags:
 <br>
 太过担心将来也无益，与其陷入无谓的担忧，不如做好当下，do the next right thing！不要去等什么绝好时机，不要太过苛求，just do it.  
 
+<<<<<<< HEAD
 ![](/img/in-post/timg.jpg)
+=======
+![](/img/in-post/timg.jpg)  
+>>>>>>> e1b5fdfef52539080724f650642c59d76a3b2bdb
 
 把每一个当下做到最好，未来就在不远处。
 
