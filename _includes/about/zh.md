@@ -6,7 +6,7 @@ Hi! I am Meyer. I'm now studying at the School of Software Engineering, South Ch
 <br>
 Welcome to my blog! This [blog](https://meyer99.github.io/) will record some of my study notes, so as to urge myself to learn more and summarize in time, as well as my thinking of life and what I have seen and heard.
 
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200pt" height="200pt" viewBox="0 0 200 200" version="1.1">
 <defs>
 <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">

@@ -6,7 +6,7 @@ Hi! 我是铭扬，现就读于华南理工大学软件学院，我的研究兴�
 <br>
 欢迎来到我的博客！这个[博客](https://meyer99.github.io/)将记录我的一些学习笔记，以此督促自己多学习并及时总结，以及一些生活随想和所见所闻所感。
 
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200pt" height="200pt" viewBox="0 0 200 200" version="1.1">
 <defs>
 <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
