@@ -104,7 +104,7 @@ Welcome to my blog! This [blog](https://meyer99.github.io/) will record some of 
 #### More About Me
 - Perfectionist
 - A Cantonese who loves Cantonese and Cantonese songs 🎶
-- Like guitar🎸, calligraphy✒, swimming🏊‍
+- Like guitar🎸, calligraphy✒, swimming🏊‍, workout💪
 - Once a cuber (see my [personal page](https://www.worldcubeassociation.org/persons/2014XIEM01))
 
 #### Contact Me
