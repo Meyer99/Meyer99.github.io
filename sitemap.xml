@@ -8,118 +8,153 @@
 
 
 <url>
-  <loc>http://xiemingyang.top/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/about/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/about/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/05/26/Confusion-Matrix/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/12/11/DL-C2W2/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/03/06/%E5%91%BD%E9%87%8C%E6%9C%89%E6%97%B6%E7%BB%88%E9%A1%BB%E6%9C%89/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/12/03/Reading-Paper-Career-Advice/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/03/04/DL-C5W1/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/11/22/Close-Monitor/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/02/29/DL-C2W1/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/07/29/DL-C5W3/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/02/15/DL-C1/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/06/17/DL-C5W2/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/02/12/Do-The-Next-Right-Thing/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/05/26/Confusion-Matrix/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/01/15/CS229-PS0/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/03/06/%E5%91%BD%E9%87%8C%E6%9C%89%E6%97%B6%E7%BB%88%E9%A1%BB%E6%9C%89/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2020/01/10/Python-Basics2/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/03/04/DL-C5W1/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/page2/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/page2/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Blog</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Blog</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=CS229</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=CS229</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Coursera</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Coursera</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Deep+Learning</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Deep+Learning</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Machine+Learning</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Machine+Learning</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Musing</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Musing</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Python</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Python</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=Summary</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Summary</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/archive/?tag=%E9%9A%8F%E6%83%B3</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=Windows</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2019/12/30/Python-Basics1/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/archive/?tag=%E6%8A%80%E5%B7%A7</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/archive/?tag=%E9%9A%8F%E6%83%B3</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2020/02/29/DL-C2W1/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://xiemingyang.top/2019/07/09/My-First-Post/</loc>
-  <lastmod>2020-05-26T10:43:24+00:00</lastmod>
+  <loc>https://xiemingyang.top/2020/02/15/DL-C1/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2020/02/12/Do-The-Next-Right-Thing/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2020/01/15/CS229-PS0/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2020/01/10/Python-Basics2/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2019/12/30/Python-Basics1/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xiemingyang.top/2019/07/09/My-First-Post/</loc>
+  <lastmod>2020-12-11T03:19:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
