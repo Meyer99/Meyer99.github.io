@@ -4,7 +4,7 @@ subtitle: "SGDM, NAG, AdaGrad, RMSProp, Adam在TensorFlow中的实现"
 layout: post
 mathjax: true
 author: Meyer
-catalog: true
+catalog: false
 header-img: "img/wp2478972.jpg"
 tags: 
     - Deep Learning
