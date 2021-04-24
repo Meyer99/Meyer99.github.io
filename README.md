@@ -7,6 +7,9 @@
 <br>
 
 ### Change Log
+2021.4.24
+* change mathjax javascript source to [link](https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG) (the previous one didn't work)  
+
 2020.11.21
 * fix mathjax display mode rendering problem
 
